@@ -1,0 +1,16 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Raunaq Salve <raunaqs@amdocs.com>
+#
+# On branch dev
+# Changes to be committed:
+#	new file:   models/base_btc_btc.sql
+#	deleted:    models/example/my_first_dbt_model.sql
+#	deleted:    models/example/my_second_dbt_model.sql
+#	deleted:    models/example/schema.yml
+#	new file:   models/schema.yml
+#	new file:   models/sources.yml
+#	new file:   models/stg_btc.sql
+#
